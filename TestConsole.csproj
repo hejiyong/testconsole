@@ -84,10 +84,11 @@
     <Compile Include="CodeTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestBase.cs" />
+    <Compile Include="TestItem\ApiTest.cs" />
     <Compile Include="TestItem\DicToObject.cs" />
     <Compile Include="TestItem\DynamicClassReadyTest.cs" />
     <Compile Include="TestItem\LogTest.cs" />
-    <Compile Include="TestItem\ApiTest.cs" />
+    <Compile Include="TestItem\StringTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">

@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace TestConsole.TestItem
 {
-    [Test("API测试方法")]
-    public class ApiTest : TestBase
+    [Test("String测试类")]
+    public class StringTest: TestBase
     {
         public void RunTest()
         {
-            Console.WriteLine("Api测试成功");
+            Console.WriteLine("测试");
         }
     }
 }
